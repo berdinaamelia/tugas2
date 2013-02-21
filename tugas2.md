@@ -9,7 +9,6 @@ Universitas Negeri Malang
 	</head>
 	<body style = "background-color:pink">
 	<h2>Curriculum Vitae (CV)</h2>
-	
 	<ol>
 	<p><b>Data Pribadi</b></p>  
 	<tr>
