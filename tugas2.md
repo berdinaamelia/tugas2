@@ -3,7 +3,6 @@ tugas2
 
 Universitas Negeri Malang
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<title> Curriculum Vitae (CV)</title>
@@ -27,8 +26,8 @@ Universitas Negeri Malang
 	</ol>
 	
 	<ol>
+	<p style= "font-family: Futura; font-size: 20px"><b>Riwayat Pendidikan</b></p>
 	<tr>
-   	<p style= "font-family: Futura; font-size: 20px"><b>Riwayat Pendidikan</b></p>
 	<li>1999-2005 : SD Wiroborang III Probolinggo</li>
 	<li>2005-2008 : SMP Negeri 2 Probolinggo</li>
 	<li>2008-2011 : SMA Negeri 4 Probolinggo</li>
@@ -37,8 +36,8 @@ Universitas Negeri Malang
 	</ol>
 	
 	<ol>
-	<tr>
 	<p style= "font-family: Futura; font-size: 20px"><b>Kursus & Pelatihan</b></p>
+	<tr>
 	<li>2008 : Bahasa Inggris (1 tahun)</li>
 	<li>2011 : Komputer (3 bulan)</li>
 	</tr>
