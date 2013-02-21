@@ -3,25 +3,15 @@ tugas2
 
 Universitas Negeri Malang
 
-<!DOCTYPE html>
 <html>
 	<head>
 		<title> Curriculum Vitae (CV)</title>
 	</head>
 	<body style = "background-color:pink">
 	<h2>Curriculum Vitae (CV)</h2>
-	<ol>
-	<p style= "font-family: Futura; font-size: 20px"><b>Riwayat Pendidikan</b></p>
-	<tr>
-	<li>1999-2005 : SD Wiroborang III Probolinggo</li>
-	<li>2005-2008 : SMP Negeri 2 Probolinggo</li>
-	<li>2008-2011 : SMA Negeri 4 Probolinggo</li>
-	<li>2011-sekarang : Universitas Negeri Malang</li>
-	</tr>
-	</ol>
 	
- 	<ol>
-	<p style= "font-family: Futura; font-size:20px"><b>Data Pribadi</b></p>  
+	<ol>
+	<p><b>Data Pribadi</b></p>  
 	<tr>
          <li>Nama : Berdina Amelia W.</li>
          <li>Jenis Kelamin : Perempuan</li>
@@ -35,9 +25,19 @@ Universitas Negeri Malang
 	 <li>E-mail : berdina.bella@yahoo.com</li>
 	</tr>
 	</ol>
+
+	<ol>
+	<p><b>Riwayat Pendidikan</b></p>
+	<tr>
+	<li>1999-2005 : SD Wiroborang III Probolinggo</li>
+	<li>2005-2008 : SMP Negeri 2 Probolinggo</li>
+	<li>2008-2011 : SMA Negeri 4 Probolinggo</li>
+	<li>2011-sekarang : Universitas Negeri Malang</li>
+	</tr>
+	</ol>
 	
 	<ol>
-	<p style= "font-family: Futura; font-size: 20px"><b>Kursus & Pelatihan</b></p>
+	<p><b>Kursus & Pelatihan</b></p>
 	<tr>
 	<li>2008 : Bahasa Inggris (1 tahun)</li>
 	<li>2011 : Komputer (3 bulan)</li>
