@@ -3,6 +3,7 @@ tugas2
 
 Universitas Negeri Malang
 
+<!DOCTYPE html>
 <html>
 	<head>
 		<title> Curriculum Vitae (CV)</title>
@@ -22,13 +23,11 @@ Universitas Negeri Malang
 	 <li>Alamat : Perum.Pondok Pabean Indah Blok V-4, Probolinggo</li>
          <li>No.Ponsel : 085785099340</li>
 	 <li>E-mail : berdina.bella@yahoo.com</li>
-    	
 	</tr>
 	</ol>
 	
 	<ol>
 	<tr>
-	
    	<p style= "font-family: Futura; font-size: 20px"><b>Riwayat Pendidikan</b></p>
 	<li>1999-2005 : SD Wiroborang III Probolinggo</li>
 	<li>2005-2008 : SMP Negeri 2 Probolinggo</li>
